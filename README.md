@@ -125,12 +125,7 @@ Google Cloud
 
 
 
-<h2>Team Members:</h2> 
-<hr>
-<b> B.Uday Santosh Kumar </b>- <a href="https://github.com/udaysk3">GITHUB</a> <br>
-<b> B.Pradeep Behara </b>- <a href="https://github.com/pradeep-behara">GITHUB</a> <br >
-<b> B.Dhanunjaya Rao </b> - <a href="https://github.com/DarkSaint09">GITHUB</a> <br>
-<b> G.Hemanth Kumar </b> - <a href="https://github.com/HemanthKumar8251">GITHUB</a> <br>
+
 
 <h2></h2> GITHUB URL :
 <hr>
