@@ -101,39 +101,3 @@ help shorten wait times for doctor's appointments. There is no need for patients
 
 
 
-
-
-
-CLOUD :
-<hr>
-Google Cloud
-
-<h2>TOOLS :</h2> 
-<hr>
-<ul>
-  <li>Github</li>
-  <li>Postman</li>
-  <li>Figma</li>
-  <li>Canva</li>
-</ul>
-
-
-<h2>Documentation link:</h2>
-<hr>
-<a href="https://docs.google.com/document/d/1_GZulixw4hNnEqrQdipfMNQcnomSFIqdettU4vbVxhg/edit?usp=sharing">Link</a>
-
-
-
-
-
-
-<h2></h2> GITHUB URL :
-<hr>
-<a href="https://github.com/udaysk3/HealthCare-AI-ChatBot">https://github.com/udaysk3/HealthCare-AI-ChatBot</a> 
-
-
-<h2>Demo Video :</h2> 
-<hr>
-<a href="https://drive.google.com/file/d/1-iiWLJZVQoZK-vmE6SLaPm14FXvvMojj/view?usp=sharing">Video Link </a> 
-
-
