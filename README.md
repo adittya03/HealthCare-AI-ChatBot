@@ -1,7 +1,5 @@
 
 
-<h1> Google Cloud Deployed Link : http://34.16.133.175/</h2>
-
 <h1> Title of the project : </h1>
 <h2>AI Healthcare Chatbot</h2> 
 <hr>
